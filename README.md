@@ -1,8 +1,8 @@
-# grocery-bud
+# navbar
 
 ## Demo
 
-[demo](https://ziaurr3hman.github.io/grocery-bud/)
+[demo](https://ziaurr3hman.github.io/navbar/)
 
 ## :information_source: Getting started
 
@@ -15,9 +15,9 @@
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/ZiaUrR3hman/grocery-bud.git
+$ git clone https://github.com/ZiaUrR3hman/navbar.git
 # Access this repo
-$ cd grocery-bud
+$ cd navbar
 # Install dependencies
 $ npm install
 # Run the application
